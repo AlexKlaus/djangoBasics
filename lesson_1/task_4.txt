@@ -1,0 +1,6 @@
+Содержит id якоря и несколько вложений:
+https://docs.python.org/3/tutorial/inputoutput.html#the-string-format-method
+
+Несколько вложение и get запросы
+https://www.avito.ru/sankt-peterburg/igry_pristavki_i_programmy/igrovye_pristavki-ASgBAgICAUSSAsoJ?cd=1&q=ps5
+https://www.dns-shop.ru/catalog/17a892f816404e77/noutbuki/?stock=now-today-tomorrow-later-out_of_stock&order=6
